@@ -13,7 +13,7 @@ This is a **Bank of America Online Dashboard** that allows users to view their a
 ## 📂 Project Structure
 ## 📜 How to Use  
 ### **1️⃣ Access the Website**  
-- Visit: [www Bank of America. Com🇺🇸 ]  
+- Visit: [GitHub Pages Link]  
 
 ### **2️⃣ Login Details**  
 - **Username:** Cote de Pablo  
